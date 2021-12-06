@@ -1,4 +1,4 @@
-#Yetkili Kullanıcı Politikası, Domain Kullanıcılarına Yalnızca Kendi Makinelerinde Yetki Verme#
+# Yetkili Kullanıcı Politikası, Domain Kullanıcılarına Yalnızca Kendi Makinelerinde Yetki Verme #
 Kullanıcılara kendi makinelerinde yetki verilmesi 2 şekilde yapılabilir.
 ## 1- Her kullanıcının yalnızca kendi makinesinde tam yetki verilmesi
 
